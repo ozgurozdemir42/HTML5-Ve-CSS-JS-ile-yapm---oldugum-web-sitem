@@ -1,0 +1,171 @@
+.soldısdiv
+{
+	background-color:#00838F;
+	width:300px;
+	height:100%;
+	margin-left:-8px;
+	margin-top:-8px;
+	position:fixed;
+}
+
+.soldısdiv .menu a
+{
+	font-family:Arial;
+	color: rgba(255, 255, 255, 0.5);
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    font-size: 14pt;
+	font-weight: bold;
+    text-decoration: none;
+}
+
+.fotodaire
+{
+	width:150px;
+	height:150px;
+	border:10px solid white;
+	opacity:0.75;
+	position:relative;
+	top:200px;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:85px;
+    opacity: 1;
+}
+.foto
+{
+	border-radius:85px;
+}
+.ozgur
+{
+	font-family:Segoe UI Semibold;
+	font-size:63pt;
+	color:grey; 
+    display: inline-block;
+}
+.ozdemir
+{
+	font-family: ArialBlack;
+	font-size:63pt;
+	color:#00838F; 
+    display: inline-block;
+	padding-left: 25px;
+}
+.altbilgi
+{
+	font-family:Arial;
+	font-size:18pt;	
+	color:grey;
+}
+.sayfa
+{
+	background:white;
+	font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+}
+.mail-adresi{
+	font-family:Arial;
+	color: #00838F;
+	font-weight: bold;
+    text-decoration: none;
+}
+
+.mail-adresi:hover{
+    text-decoration: underline;
+}
+.menu{
+	position:absolute;
+    top: 400px;
+    left: 80px;
+	
+}
+
+.hakkında{
+	left: 300px; 
+	position: absolute; 
+	height: 100%;
+	padding-left: 100px;
+}
+.dropdownicerik
+{
+	display:none;
+	position: absolute;
+	background-color: #00838F;
+	z-index:1;	
+}
+.dropdown:hower .dropdownicerik{
+	display:block;	
+}
+.DENEYIM{
+	top:100%;
+	left: 300px; 
+	position: absolute; 
+	height: 100%;
+	padding-left: 100px;
+	
+}
+.EĞİTİM{
+	top:200%;
+	left: 300px; 
+	position: absolute; 
+	height: 100%;
+	padding-left: 100px;
+}
+.EĞİTİM{
+	top:300%;
+	left: 300px; 
+	position: absolute; 
+	height: 100%;
+	padding-left: 100px;
+}
+.BECERİLER{
+	top:400%;
+	left: 300px; 
+	position: absolute; 
+	height: 100%;
+	padding-left: 100px;
+}
+.İLGİALANLARI{
+    top:500%;
+	left: 300px; 
+	position: absolute; 
+	height: 100%;
+	padding-left: 100px;
+}
+.ÖDÜLLER{
+	top:600%;
+	left: 300px; 
+	position: absolute; 
+	height: 100%;
+	padding-left: 100px;
+}
+
+	
+.kupa{
+   position:relative;
+   top:250px;
+   left:20px;
+}
+.python{
+
+}
+
+
+.ybtn{
+	position:fixed;
+	right:40px;
+	bottom:40px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 50%;
+	background-color: gray;
+	cursor: pointer;
+}
+
+
+.altmenu{
+	font-size: inherit!important;
+    font-weight: initial!important;
+}
